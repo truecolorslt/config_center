@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="config_center"
+  id="myeclipse.1491467585854"
+  context-root="/config_center"
+  j2ee-spec="1.7"
+  archive="config_center.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
